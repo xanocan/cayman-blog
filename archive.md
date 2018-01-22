@@ -3,6 +3,7 @@ layout: page
 title: Daftar Isi
 permalink: /archive/
 ---
+<section class="archive-post-list">
 <h1>{{ page.title }}</h1>
 <ul>
 {% for post in site.posts %}
@@ -12,4 +13,4 @@ permalink: /archive/
     {% endif %}
 {% endfor %}
 </ul>
-
+</section>

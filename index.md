@@ -1,4 +1,4 @@
-#---
+---
 #
 # Here you can change the text shown in the Home page before the Latest Posts section.
 #
@@ -6,5 +6,5 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 #layout: home
-#---
+---
 

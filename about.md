@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-tagline: A few more words about this theme
+title: Me
+tagline: Inilah Diriku
 permalink: /about.html
 ---
 

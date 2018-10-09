@@ -9,4 +9,4 @@ Tapi setelah dokomen tersebut saya export ke PDF ngeprintnya lama sekali. Kalo g
 Langsung saja.
 ### Pertama
 silahkan buka file dokumen PDF yang ingin di print. Kemudian pilih menu print ato CTRL+P
-![](./img/pdf1.png =350x150)
+![](./img/pdf1.png)

@@ -1,5 +1,5 @@
 title: Hack Your Self
-description: Hidup di negri selembar ijazah
+description:
 show_downloads: true
 
 baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
@@ -16,12 +16,12 @@ theme: # leave it empty
 # social
 author: "xcan"
 image: /thumbnail-jumbo.png
-twitter:
-  username: lorepirri
+#twitter:
+#  username:
 #  site:
-facebook:
+#facebook:
   #publisher: 1592372034171500
   #profile_id: 1809805629
-  app_id: 1798910940422432 # cayman-blog
+  #app_id: 1798910940422432 # cayman-blog
   #authors: lorepirri
 #  admins:

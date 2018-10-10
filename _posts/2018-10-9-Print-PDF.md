@@ -9,11 +9,11 @@ Tapi setelah dokomen tersebut saya export ke PDF ngeprintnya lama sekali. Kalo g
 Langsung saja.
 ### Pertama
 silahkan buka file dokumen PDF yang ingin di print. Kemudian pilih menu print ato CTRL+P
-![](/img/pdf1.png)
+![alt text](/img/pdf1.png "Peratama")
 ### Kedua
 Pada menu bagian atas sorot pada bagian `Image Quality`. Kemudian ubah pada bagian resolusi berapapun menjadi `automatic`
-![](/img/pdf2.png)
-![](/img/pdf3.png)
+![alt text](/img/pdf2.png "Kedua")
+![alt text](/img/pdf3.png "Ketiga")
 
 Setelah selasai cobalah untuk print satu lembar saja dan rasakan sensasinya...
 

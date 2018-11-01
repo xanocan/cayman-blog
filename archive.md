@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Daftar Isi
+title: Isi
 permalink: /archive/
 ---
 <section class="archive-post-list">
